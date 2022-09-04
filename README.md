@@ -1,1 +1,1 @@
-# First-Lab-of-Coursera
+print("hello word")
